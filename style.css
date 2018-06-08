@@ -1,0 +1,16 @@
+*{
+    margin: 25px;
+}
+body{
+    background-color: aquamarine;
+}
+td, th{
+    border: 2px double red;
+	outline: 2px solid black;
+    width: 50px;
+    height: 50px;
+    border-collapse: collapse;
+}
+td{
+    text-align: center;
+}
